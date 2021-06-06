@@ -1,0 +1,114 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+    font-family: 'Architects Daughter', cursive;
+
+}
+
+
+.first{
+    text-align: center;
+    background-image: url(https://startbootstrap.github.io/startbootstrap-stylish-portfolio/assets/img/bg-masthead.jpg);
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    padding: 18rem 0;
+}
+.first h1{
+    color: #212529;
+    font-size:  88px;
+}
+.first h3{
+    color:#212529;
+    font-size: 28px;
+    font-style: italic;
+    margin-bottom: 50px;
+
+}
+.first a{
+background-color: #1d809f;
+padding:20px 40px;
+color:#fff
+font-size: 1rem;
+ text-decoration: none;
+ border-radius: 4px;
+}
+
+
+.second{
+    text-align:center;
+    padding:6rem 0;
+
+}
+.second h2{
+    color:#212529;
+    font-size:2rem
+}
+.second p{
+    color:#212529;
+    font-size:20px;
+    margin-bottom: 50px;
+}
+
+.second .a2{
+    background-color: #212529;
+    padding:20px 40px;
+    color:#fff
+    font-size: 1rem;
+     text-decoration: none;
+     border-radius: 4px;
+}
+
+     .fourth{
+         background-image:url(https://startbootstrap.github.io/startbootstrap-stylish-portfolio/assets/img/bg-callout.jpg);
+         backround-position: center;
+         backround-size:cover;
+         text-align: center;
+         background-attachment: fixed;
+         padding:18rem 0;
+     }
+     .fourth h2{
+         color:#212529;
+         font-size:56px;
+         margin-bottom: 50px;
+     }
+     .fourth a{
+        background-color: #1d809f;
+        padding:20px 40px;
+        color:#fff
+        font-size: 1rem;
+         text-decoration: none;
+         border-radius: 4px;
+        }
+
+
+        .sixth{
+            background-color:#1d809f;
+            text-align:center;
+            padding:8rem 0;
+
+        }
+        .sixth h2{
+            color:#fff;
+            font-size:32px;
+            margin-bottom: 50px;
+        }
+.sixth .a1{
+    background-color: #fff;
+    padding:20px 40px;
+    color:#212529
+    font-size: 1rem;
+     text-decoration: none;
+     border-radius: 4px;
+     margin-right:10px;
+}
+.sixth .a2{
+    background-color: #212529;
+    padding:20px 40px;
+    color:#fff
+    font-size: 1rem;
+     text-decoration: none;
+     border-radius: 4px;
+     margin-left:10px;
+}
